@@ -6,7 +6,7 @@ WinWebConsole is my interpretation of the real Windows console, but for the web 
 
 ## How to use WinWebConsole?
 
-To use WinWebConsole, you need to open [this website] in your browser. You will see a window similar to a real Windows 11 window with white text. You can use the keyboard to type commands and press Enter to execute them. You can also use the mouse for copying and pasting text.
+To use WinWebConsole, you need to open [this website](https://www.dimayastrebov.website/pages/console) in your browser. You will see a window similar to a real Windows 11 window with white text. You can use the keyboard to type commands and press Enter to execute them. You can also use the mouse for copying and pasting text.
 
 ## What commands are supported?
 
