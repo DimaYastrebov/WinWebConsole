@@ -6,8 +6,7 @@ WinWebConsole is my interpretation of the real Windows console, but for the web 
 
 ## How to use WinWebConsole?
 
-To use WinWebConsole, you need to open [this website](https://www.dimayastrebov.website/pages/console?lang=en) in your browser. You will see a window similar to a real Windows 11 window with white text. You can use the keyboard to type commands and press Enter to execute them. You can also use the mouse for copying and pasting text.
-
+To use WinWebConsole, you need to download the [source code](https://github.com/DimaYastrebovYT/WinWebConsole/archive/refs/heads/main.zip), as the website has changed, and the console is now available only here. You will see a window similar to a real Windows 11 window with white text. You can use the keyboard to type commands and press Enter to execute them. You can also use the mouse for copying and pasting text.
 ## What commands are supported?
 
 WinWebConsole supports several basic commands such as `calc`, `cd`, `clear`, `color`, `converter`, `crypt`, `copy`, `curl`, `date`, `del`, `dir`, `echo`, `fact`, `hello`, `help`, `mkdir`, `note`, `password`, `ping`, `random`, `search`, `time`, `timer`, `windows`, `lorem`, `systeminfo`, `ver`, `whoami`, `tasklist`, `taskkill`, `runas`, `type`, `netstat`, `bcdedit`, `gpupdate`, `sfc`, `tree`, `ipconfig`, `error`. You can get a list of all available commands by typing `help`.
